@@ -4,6 +4,7 @@ import customtkinter #instalar lib: pip install customtkinter
 app = customtkinter.CTk()
 app.geometry("400x300")
 app.title("CTk projeto de exemplo")
+app.iconbitmap("icon.ico")
 
 #Verificar
 def Verificar_Login():
