@@ -5,3 +5,6 @@ Link da documentação: https://github.com/TomSchimansky/CustomTkinter/wiki
 
 --Para fazer o download da biblioteca, digite no terminal:
 **pip install customtkinter**
+
+*Resultado da interface:
+![Captura de Tela (2)](https://user-images.githubusercontent.com/125741218/220095178-dad5dca8-6395-47f5-bb9e-282ed27b4cd6.png)
